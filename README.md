@@ -1,2 +1,2 @@
-# PPgo.github.io
+# PPgo
 EffectView
